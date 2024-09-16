@@ -1,0 +1,37 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "BAA",
+				"abbreviation": "BAA",
+				"full": "Belzor's Alchemical Almanac",
+				"version": "1.0.0",
+				"authors": [
+					"Tyler Stokes"
+				],
+				"color": "12731d"
+			}
+		],
+		"itemTypes": {
+			"CC": "Concoction",
+			"I": "Ingredient"
+		}
+	},
+	"item": [
+		{
+			"name": "Air Pod",
+			"source": "BAA",
+			"otherSources": [
+				{
+					"source": "AA"
+				}
+			],
+			"type": "I",
+			"rarity": "uncommon",
+			"weight": 0,
+			"entries": [
+				"This smooth white lozenge magically oxygenates the lungs. When you consume it, you can hold your breath and don’t need to breathe air for 1 hour. This effect ends early if you speak or release your breath."
+			]
+		}
+	]
+}
